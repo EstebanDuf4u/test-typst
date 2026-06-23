@@ -36,7 +36,3 @@ Si ce PDF est généré dans la release GitHub, alors le workflow est opération
 - Le PDF est généré dans le dossier `dist`.
 - La release GitHub reçoit bien le fichier PDF.
 
-== Exemple de code
-
-```python
-print("Hello Typst")
